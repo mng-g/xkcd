@@ -1,3 +1,5 @@
+<img src="https://github.com/mng-g/xkcd/blob/main/xkcd-logo.png?raw=true" width="200" height="200">
+
 # xkcd Tool
 ##### Exercize 4.12 - The Go Programming Language
 
