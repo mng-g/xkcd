@@ -57,7 +57,8 @@ func main() {
 		}
 		// search if there in a match
 		if strings.Contains(episode.Trascript, keyword) {
-			/* 			URL := "https://xkcd.com/" + strconv.Itoa(episode.Num) + "/info.0.json"
+			/* 			Output on CLI
+						URL := "https://xkcd.com/" + strconv.Itoa(episode.Num) + "/info.0.json"
 			   			fmt.Println(URL)
 			   			fmt.Println("--------------------------------------------")
 			   			fmt.Println(episode.Trascript)
@@ -67,14 +68,4 @@ func main() {
 			}
 		}
 	}
-
-	/* //!-template
-
-	   func main() {
-	   	result, err := github.SearchIssues(os.Args[1:])
-	   	if err != nil {
-	   		log.Fatal(err)
-	   	}
-
-	   } */
 }
