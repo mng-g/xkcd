@@ -1,7 +1,7 @@
 <img src="https://github.com/mng-g/xkcd/blob/main/xkcd-logo.png?raw=true" width="200" height="200">
 
 # xkcd Tool
-##### Exercize 4.12 - The Go Programming Language
+##### Exercise 4.12 - The Go Programming Language
 
 An example tool for fetching xkcd API endpoint and saving the content into different files.
 These files can be used as an offline index for searching a keyword inside all the transcripts.
